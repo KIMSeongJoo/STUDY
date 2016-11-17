@@ -1,0 +1,2 @@
+# 2016-11-17
+# subject : javascript object, prototype, prototype chain
